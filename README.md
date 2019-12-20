@@ -7,3 +7,4 @@ Note: This TA is used for parsing Unified2 "alert" logs currently. Support for p
 
 Reference for Unified2: https://www.snort.org/faq/readme-unified2
 
+Also, check us out on splunkbase : https://splunkbase.splunk.com/app/4823/
